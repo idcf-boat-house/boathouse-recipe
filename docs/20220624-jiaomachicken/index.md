@@ -40,9 +40,10 @@
 
 ## 视频演示
 
-关注【Boathouse船屋日记】微信视频号，全程live demo，看了就会，每周五更新一道美食，丰富程序员的餐桌。
+关注【Boathouse船屋日记】视频号/抖音，全程live demo，看了就会，每周五更新一道美食，丰富程序员的餐桌。
 
 > 记得点赞关注 + Star
 
 ![](../images/boathouse-code.jpg)
+![](../images/boathouse-douyin.png)
 
