@@ -13,6 +13,12 @@
 
 ## 菜谱目录
 
+- [异步回锅肉 - Async Call-Back Meat](docs/20220709-async-callback-meat/index.md)
+
+  回锅肉制作工序简单，基本不会出Bug。因为肉要先异步处理好才能下锅，故称异步回锅肉。
+
+  ![](docs/20220709-async-callback-meat/images/async-callback-meat.jpg)
+
 - [一键生成手抓饭 One-click lamb meal](docs/20220630-oneclicklumbmeal/index.md)
 
   手抓饭这个东西，喜欢吃肉的小伙伴都喜欢。但是传统的手抓饭做法复杂，而且火候一旦掌握不好就会糊锅，需要一直蹲守在锅边才行。船长经过多次尝试，终于摸索出了使用电饭煲一键生成手抓饭的全自动做法。
