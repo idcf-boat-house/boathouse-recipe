@@ -9,9 +9,14 @@
 每周五持续更新一道美食菜谱，让程序员的周末也美味起来。
 
 ![](docs/images/boathouse-code.jpg)
-![](docs/images/boathouse-douyin.png)
 
 ## 菜谱目录
+
+- [快速生成照烧鸡 - Fast Deploy Teriyaki Chichken](docs/20220716-fastchichken/index.md)
+  
+  十分钟吃到嘴，十五分钟干完饭的程序员快餐标配。
+  
+  ![](docs/20220716-fastchichken/images/fastchicken.JPG)
 
 - [异步回锅肉 - Async Call-Back Meat](docs/20220709-async-callback-meat/index.md)
 
